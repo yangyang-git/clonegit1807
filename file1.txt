@@ -1,2 +1,3 @@
 new file
 master~~~~modify
+feature1~~~~~modify
